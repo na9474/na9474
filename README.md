@@ -45,8 +45,5 @@
 
 ![na9474's GitHub stats](https://github-readme-stats.vercel.app/api?username=na9474&show_icons=true&theme=github_dark)       
 
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na9474)](https://github.com/na9474/github-readme-stats)
-
 
 </div>
