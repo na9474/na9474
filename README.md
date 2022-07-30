@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NaYoung%20Lee&fontSize=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nayoung&fontSize=70)
 
 <div align="center">
 
@@ -43,11 +43,10 @@
 
 
 
-![Dawn0820's GitHub stats](https://github-readme-stats.vercel.app/api?username=na9474&show_icons=true&theme=github_dark)       
+![na9474's GitHub stats](https://github-readme-stats.vercel.app/api?username=na9474&show_icons=true&theme=github_dark)       
 
-[![Solved.ac
-na9474](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na9474)](https://github.com/na9474/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=na9474)](https://github.com/na9474/github-readme-stats)
 
 </div>
