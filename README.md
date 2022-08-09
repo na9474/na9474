@@ -34,12 +34,12 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
 <br/>
 <br/>
-  
-<hr>
-<br/>
 
 ### 🐱 About Me 🐱
 <a href="https://jelly-linseed-343.notion.site/c1bc15d0b51f42bca553c522bce48326" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<hr>
+
+
 
 <br/>
   
