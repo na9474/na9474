@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nayoung&fontSize=70)
+
 
 <div align="center">
 
-### Hi, Welcome. i'm NAYOUNG LEE👋
+### 👋Hi, Welcome. I'm NAYOUNG LEE👋
 <br/>
 
 
